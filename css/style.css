@@ -24,6 +24,7 @@ details {
   border-bottom: 1px solid black;
   margin-bottom: 2em;
   color: darkblue;
+  margin-left: 10px;
 }
 
 details p {
